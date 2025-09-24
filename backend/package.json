@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "start": "node index.js",
-    "server": "nodemon index.js"
+    "server": "nodemon index.js",
+    "build": "echo \"No build needed for backend\""
   },
   "author": "",
   "license": "ISC",
